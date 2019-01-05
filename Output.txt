@@ -1,0 +1,84 @@
+Hello, and welcome to the Company Info page for Gamershore LLC!
+
+Here is the data:
+
+********************************************************
+
+Name: Brennon O'Neill
+Address: 204 W. Samson Blvd
+City: Vancouver
+State: WA
+Position: CEO
+ID: 1000
+Year Started: 2007
+Wage: $10000.00 per month
+
+********************************************************
+
+Name: Tucker Boner
+Address: 4502 State Hwy 98
+City: Baltimore
+State: MD
+Position: Manager
+ID: 1001
+Year Started: 2009
+Wage: $6400.00 per month
+
+********************************************************
+
+Name: Tom Cassell
+Address: 43 Northhampton Street
+City: Manchester
+State: NH
+Position: Manager
+ID: 1002
+Year Started: 2015
+Wage: $5200.00 per month
+
+********************************************************
+
+Name: Robbie Richards
+Address: 847 Main Street
+City: Omaha
+State: NE
+Position: Content Creator
+ID: 1003
+Year Started: 2016
+Wage: $12.00 per hour
+
+********************************************************
+
+Name: Sam Peterson
+Address: 9899 E. Washington Blvd
+City: Madison
+State: WI
+Position: Content Creator
+ID: 1004
+Year Started: 2010
+Wage: $15.00 per hour
+
+********************************************************
+
+Name: Trevor Martin
+Address: 145 N. Sellout Blvd
+City: Orlando
+State: FL
+Position: Content Creator
+ID: 1005
+Year Started: 2011
+Wage: $14.50 per hour
+
+********************************************************
+
+Name: Sonja Reid
+Address: 4329 N. Sailor Ave.
+City: Sarnia
+State: ON
+Position: Content Intern
+ID: 1006
+Year Started: 2015
+Wage: $.00; N/A Due To Unpaid Internship
+
+********************************************************
+
+Thanks for using this program! Goodbye!
